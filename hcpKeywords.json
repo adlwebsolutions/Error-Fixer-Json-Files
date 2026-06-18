@@ -38,7 +38,7 @@
     "Other"
   ],
 
-  Doctor: ["Doctor"],
+  "Doctor": ["Doctor"],
 
   "Non-Prescribing Health Care Professional": [
     "Dentist",
@@ -54,11 +54,11 @@
     "Other"
   ],
 
-  Nurse: ["Nurse"],
+  "Nurse": ["Nurse"],
 
-  Pharmacist: ["Community Pharmacist", "Hospital Pharmacist"],
+  "Pharmacist": ["Community Pharmacist", "Hospital Pharmacist"],
 
-  Resident: ["Resident"],
+  "Resident": ["Resident"],
   },
 
   "DESIGNATIONS_JOB_TITLE": [
