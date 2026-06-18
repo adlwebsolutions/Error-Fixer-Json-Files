@@ -1,0 +1,32 @@
+{"HCP_TYPE_MAPPING": {
+    "Animal Health": ["Veterinarian"],
+
+  "Business Professional": [
+    "Procurement Professional",
+    "HR Professional",
+    "Marketing Professional",
+    "Other"
+  ],
+
+  "Doctor": ["Doctor"],
+
+  "Non-Prescribing Health Care Professional": [
+    "Dentist",
+    "Traditional Medicine Practitioner",
+    "Physical Therapist",
+    "Physician Assistant",
+    "Medical Technician",
+    "Optometrist",
+    "Psychologist",
+    "Dental Technician",
+    "Dietitian",
+    "Radiographer",
+    "Other"
+  ],
+
+  "Nurse": ["Nurse"],
+
+  "Pharmacist": ["Community Pharmacist", "Hospital Pharmacist"],
+
+  "Resident": ["Resident"]
+}}
