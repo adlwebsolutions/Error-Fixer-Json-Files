@@ -1,0 +1,88 @@
+{
+  "hcpDesignationStrongKeywords": [
+    "railway",
+    "institute",
+    "academy",
+    "college",
+    "medical college",
+    "base hospital",
+    "cghs",
+    "army",
+    "sub-divisional",
+    "sub divisional",
+    "esi",
+    "esis",
+    "esic",
+    "employee state insurance",
+    "central government health scheme",
+    "command",
+    "cantonment",
+    "military",
+    "dispensary",
+    "dispensaries",
+    "wellness centre",
+    "wellness center",
+    "armed force",
+    "health unit",
+    "health scheme"
+  ],
+
+  "hcpTypeMapping": {
+    "Animal Health": [
+      "Veterinarian"
+    ],
+
+    "Business Professional": [
+      "Procurement Professional",
+      "HR Professional",
+      "Marketing Professional",
+      "Other"
+    ],
+
+    "Doctor": [
+      "Doctor"
+    ],
+
+    "Non-Prescribing Health Care Professional": [
+      "Dentist",
+      "Traditional Medicine Practitioner",
+      "Physical Therapist",
+      "Physician Assistant",
+      "Medical Technician",
+      "Optometrist",
+      "Psychologist",
+      "Dental Technician",
+      "Dietitian",
+      "Radiographer",
+      "Other"
+    ],
+
+    "Nurse": [
+      "Nurse"
+    ],
+
+    "Pharmacist": [
+      "Community Pharmacist",
+      "Hospital Pharmacist"
+    ],
+
+    "Resident": [
+      "Resident"
+    ]
+  },
+
+  "designationsJobTitle": [
+    "ACHD (Additional Chief Health Director)",
+    "ACMD (Additional Chief Medical Director)",
+    "ACMO (Additional Chief Medical Officer)",
+    "ACMS (Additional Chief Medical Superintendent)",
+    "Additional Administrative Medical Officer",
+    "Additional Director",
+    "Additional Director Administration",
+    "Additional Professor",
+    "Administrative Medical Officer",
+    "ADMO (Additional Divisional Medical Officer)",
+    "ADMS (Assistant Director Medical Services)",
+    "AMO (Assistant Medical Officer)"
+  ]
+}
