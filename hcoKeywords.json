@@ -1,5 +1,5 @@
 {
-  "publicHospitalKeywords": [
+  "PUBLIC_HOSPITAL_KEYWORDS": [
     "railway",
     "base hospital",
     "cghs",
@@ -45,7 +45,7 @@
     "army",
     "ministry"
   ],
-  "privateHospitalKeywords": [
+  "PRIVATE_HOSPITAL_STRONG_KEYWORDS": [
     "pvt ltd",
     "private limited",
     "llp",
