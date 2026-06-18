@@ -25,7 +25,7 @@
   "wellness center",
   "armed force",
   "health unit",
-  "health scheme",
+  "health scheme"
   ],
 
   "HCP_TYPE_MAPPING": {
@@ -35,7 +35,7 @@
     "Procurement Professional",
     "HR Professional",
     "Marketing Professional",
-    "Other",
+    "Other"
   ],
 
   Doctor: ["Doctor"],
@@ -51,7 +51,7 @@
     "Dental Technician",
     "Dietitian",
     "Radiographer",
-    "Other",
+    "Other"
   ],
 
   Nurse: ["Nurse"],
@@ -145,6 +145,6 @@
   "Super Specialist",
   "Tutor",
   "Vice Chancellor",
-  "Vigilance Officer",
+  "Vigilance Officer"
   ]
 }
